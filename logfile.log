@@ -1,0 +1,5 @@
+[24-12-19 15:34][INFO] Task.
+[24-12-19 15:34][INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[24-12-19 15:34][INFO] NumExpr defaulting to 8 threads.
+[24-12-19 15:35][INFO] This is an level log record.
+[24-12-19 15:35][WARNING] I have a bad feeling about this...
